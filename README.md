@@ -4,6 +4,8 @@ SkunkWorks related Technical &amp; Research Artifacts
 
 ###### This document focuses on Tools & Interfaces that'll be used to automate the Data Collection, Pre-processing & Annotation for any ML based project for image/text/audio data types.
 
+[![N|Solid](https://www.testing-whiz.com/media/2832/best-practices-for-effective-data-driven-test-automation-approach2.jpg)](http://theschoolof.ai/)
+
 ##### NOTE:
 
 - This guide presents the research done for the Tools that can be used for the Data Pipeline of the ML Projects at SkunkWorks
