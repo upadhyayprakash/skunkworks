@@ -31,10 +31,8 @@ SkunkWorks related Technical &amp; Research Artifacts
 
 * Online Learning(Tackling the Dataset Shift)
 	
-* WorkFlow(ML Pipeline Automation): 
-	- Using TPOT(https://github.com/EpistasisLab/tpot)
-		- Similar to AutoML
-	- Identify the Data Pipeline 'Stages' and build 'Modules'.
+* WorkFlow(ML Pipeline Automation): Identify the Data Pipeline 'Stages' and build 'Modules'
+
 	- Workflow Definition, Automation & Monitoring
 		- Apache "AirFlow" Orchestration [a DAG(Directed Acyclic Graph) based WF Automation Framework]
 			- https://airflow.apache.org/
@@ -48,7 +46,9 @@ SkunkWorks related Technical &amp; Research Artifacts
 			- Data and Model Version Tracking
     		- Manage Experiments
 			- On-Cloud and On-Premise Data Integration
-			
+		- Using TPOT(https://github.com/EpistasisLab/tpot)
+			- Similar to AutoML
+		
         Finally, we can use previous mentioned projects or try these Open-Source Platform for ML Automation. We can replicate the features of these project or clone it to make changes.
 		- ArangoML: A ML Pipeline 'Metadata' Management
 			- https://github.com/arangoml/arangopipe
