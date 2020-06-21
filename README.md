@@ -1,5 +1,8 @@
 # skunkworks
 
+Code Name: **TOOLSPROJECTS** (SKUNKWORKS TOOLS)
+Alternate Name: **Skunk-DPipe**
+
 SkunkWorks related Technical &amp; Research Artifacts
 
 ###### This document focuses on Tools & Interfaces that'll be used to automate the Data Collection, Pre-processing & Annotation for any ML based project for image/text/audio data types.
@@ -12,9 +15,6 @@ SkunkWorks related Technical &amp; Research Artifacts
 - WorkFlow automation Tools are dealt in major details and proposal for the other Data Pipeline stages have been briefed as well.
 - More extensive research is needed in Data Processing and Collection area to find the open-source alternatives or build one for our use-cases.
 <br/>
-
-#### Code Name: **TOOLSPROJECTS** (SKUNKWORKS TOOLS)
-#### Alternate Name: **Skunk-DPipe**
 
 # Modules
 * Data Collection & Storage
