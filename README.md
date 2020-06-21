@@ -10,6 +10,7 @@ SkunkWorks related Technical &amp; Research Artifacts
 - WorkFlow automation Tools are dealt in major details and proposal for the other Data Pipeline stages have been briefed as well.
 - More extensive research is needed in Data Processing and Collection area to find the open-source alternatives or build one for our use-cases.
 <br/>
+
 #### Code Name: **TOOLSPROJECTS** (SKUNKWORKS TOOLS)
 #### Alternate Name: **Skunk-DPipe**
 
@@ -30,14 +31,12 @@ SkunkWorks related Technical &amp; Research Artifacts
 
 * Online Learning(Tackling the Dataset Shift)
 	
-* ML Pipeline Automation
+* WorkFlow(ML Pipeline Automation): 
 	- Using TPOT(https://github.com/EpistasisLab/tpot)
 		- Similar to AutoML
-
-* WorkFlow: a DAG(Directed Acyclic Graph) based WF Automation Framework
 	- Identify the Data Pipeline 'Stages' and build 'Modules'.
 	- Workflow Definition, Automation & Monitoring
-		- Apache "AirFlow" Orchestration
+		- Apache "AirFlow" Orchestration [a DAG(Directed Acyclic Graph) based WF Automation Framework]
 			- https://airflow.apache.org/
 		- Kedro-AirFlow: A Kedro Plugin for AirFlow
 			- https://github.com/quantumblacklabs/kedro
